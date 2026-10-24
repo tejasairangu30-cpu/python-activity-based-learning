@@ -1,4 +1,3 @@
-
 # Multi-Stage ATM Transaction Audit
 
 accounts = {
