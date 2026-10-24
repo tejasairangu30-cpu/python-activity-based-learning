@@ -1,4 +1,3 @@
-
 # Examination Result and Grace-Mark Validation
 
 PASS_MARK = 40
