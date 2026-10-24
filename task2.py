@@ -1,4 +1,3 @@
-
 # Campus Event Seating and Entry Validation System
 
 # Nested lists representing seating rows
