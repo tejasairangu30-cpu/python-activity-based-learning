@@ -1,4 +1,3 @@
-
 # Campus Event Financial Planning
 
 print("===== CAMPUS EVENT FINANCIAL PLANNING =====")
