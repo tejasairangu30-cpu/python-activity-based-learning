@@ -1,4 +1,3 @@
-
 # Smart Classroom Timetable Allocation
 
 # Courses: (Course Name, Number of Students)
