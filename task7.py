@@ -1,4 +1,3 @@
-
 # Employee Payroll and Deduction Analysis
 
 # Read employee details
