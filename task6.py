@@ -1,4 +1,3 @@
-
 # Multi-Day Water Tank Simulation
 
 capacity = int(input("Enter tank capacity: "))
