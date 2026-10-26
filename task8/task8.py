@@ -1,4 +1,3 @@
-
 # Multi-Plan Telecommunications Cost Optimization
 
 plans = [
